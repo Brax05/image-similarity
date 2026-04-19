@@ -1,0 +1,13 @@
+*.keras
+*.npy
+*.png
+*.h5
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+venv/
+.env/
+env/
+.cache/
+.DS_Store
+Thumbs.db
